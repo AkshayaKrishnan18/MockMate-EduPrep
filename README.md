@@ -191,7 +191,7 @@ https://github.com/AkshayaKrishnan18/MockMate-EduPrep
 <img src="technical-section.png" width="80%" />
 <img src="hr-section.png" width="80%" />
 <img src="resume.png" width="80%" />
-<img src="mobile.png" width="80%" />
+<img src="mobile.png" width="300%" />
 
 ---
 
